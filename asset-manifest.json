@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewsStand-Website/static/css/main.abd64e84.css",
+    "main.js": "/NewsStand-Website/static/js/main.f553f9f1.js",
+    "static/js/787.4c026eef.chunk.js": "/NewsStand-Website/static/js/787.4c026eef.chunk.js",
+    "static/media/Loader1.gif": "/NewsStand-Website/static/media/Loader1.5187fe2bb777aa6de9fa.gif",
+    "index.html": "/NewsStand-Website/index.html",
+    "main.abd64e84.css.map": "/NewsStand-Website/static/css/main.abd64e84.css.map",
+    "main.f553f9f1.js.map": "/NewsStand-Website/static/js/main.f553f9f1.js.map",
+    "787.4c026eef.chunk.js.map": "/NewsStand-Website/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.f553f9f1.js"
+  ]
+}
